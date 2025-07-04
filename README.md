@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Advay, a computer engineering student interested in computer architecture, chip design, and low level software!
 <!--
 **advaywelling/advaywelling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
